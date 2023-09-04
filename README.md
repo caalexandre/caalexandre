@@ -1,7 +1,7 @@
  <h2 align="center">⚡ Linguagens-Frameworks-Ferramentas ⚡</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,cpp,mysql,mariadb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,cpp" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,django" />
 </div>
 
